@@ -28,7 +28,7 @@ try:
         
         # Вызываем историю по адресу токена
         # token_call = Token(address=token)
-        token_history = get_token_history('10')  # max 1000
+        token_history = get_token_history('1000')  # max 1000
         token_history_operations = token_history['operations']
         if debug:
             pprint(token_history)
