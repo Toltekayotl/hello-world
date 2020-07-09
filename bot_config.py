@@ -9,7 +9,7 @@ TELEGRAM = {'token': '',
             'channel_id': ''}
             
 # https://ethplorer.io/wallet/#api
-API_KEY = {"apiKey": 'EK-7wrup-LJdaYw3-G9hEy'}
+API_KEY = {"apiKey": ''}
 
 # tBTC
 TOKEN = {'Token': '0x1bbe271d15bb64df0bc6cd28df9ff322f2ebd847',
